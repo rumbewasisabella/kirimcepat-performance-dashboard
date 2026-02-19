@@ -9,3 +9,7 @@ Tools & Features Used:
 - Sparkline (Revenue & Shipment trends)
 - Conditional Formatting (Performance indicators)
 - Insight Textbox for business interpretation
+
+Dashboard Preview:
+
+![Dashboard Preview](dashboard-preview-kirimcepat.png)
